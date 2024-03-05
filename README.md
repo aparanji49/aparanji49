@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm Sai Aparanji Nemmani, a CS Graduate student at Virginia Tech. 📚 
+I'm Sai Aparanji Nemmani
+🎓 CS Graduate Student at Virginia Tech | 🌐 Passionate Web Developer
 
 I'm looking for a FrontEnd Web Developer/Full Stack Web Developer 👩‍💻 🌐 role to contribute to.
 
