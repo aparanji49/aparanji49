@@ -33,7 +33,5 @@ Here are some ideas to get you started:
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aparanji49&show_icons=true&locale=en" alt="aparanji49" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aparanji49&" alt="aparanji49" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aparanji49&label=Profile%20views&color=0e75b6&style=flat" alt="aparanji49" /> </p>
 
