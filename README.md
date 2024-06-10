@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ![Github banner](https://github.com/aparanji49/aparanji49/assets/22083265/ceb4d857-7a01-4d0b-955d-7488c829fa0e)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aparanji49&label=Profile%20views&color=0e75b6&style=flat" alt="aparanji49" /> </p>
+
 ## About Me
 
 - 🎓 I'm currently pursuing a master's degree in Computer Science at Virginia Tech
@@ -28,13 +30,10 @@ Here are some ideas to get you started:
 - 🌐 ![My Portfolio](https://aparanji49.github.io/)
 - 📚 Coursework completed: Intermediate Data Structures and Algorithms, Cloud Computing, Web Application Development, User Interface Software, Software Engineering, Information Visualization, Database Management Systems, Object Oriented Programming, Operating Systems, Formal Languages & Automata Theory, Principles of Programming Languages.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiaparanjinemmani/)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saiaparanjinemmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiaparanjinemmani" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aparanji49&label=Profile%20views&color=0e75b6&style=flat" alt="aparanji49" /> </p>
+
 
