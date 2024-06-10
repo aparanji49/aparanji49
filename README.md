@@ -29,3 +29,11 @@ Here are some ideas to get you started:
 - 📚 Coursework completed: Intermediate Data Structures and Algorithms, Cloud Computing, Web Application Development, User Interface Software, Software Engineering, Information Visualization, Database Management Systems, Object Oriented Programming, Operating Systems, Formal Languages & Automata Theory, Principles of Programming Languages.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiaparanjinemmani/)
+
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aparanji49&show_icons=true&locale=en" alt="aparanji49" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aparanji49&" alt="aparanji49" /></p>
+
