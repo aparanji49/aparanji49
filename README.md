@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I'm Sai Aparanji Nemmani
 🎓 CS Graduate Student at Virginia Tech | 🌐 Passionate Web Developer
 
-I'm looking for a FrontEnd Web Developer/Full Stack Web Developer 👩‍💻 🌐 role to contribute to.
+I'm looking for a FrontEnd Web Developer/Backend Web Developer/Full Stack Web Developer 👩‍💻 🌐 role to contribute to.
 
 I know how to write in ->
 
