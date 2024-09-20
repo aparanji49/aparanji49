@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 - 🎓 I'm currently pursuing a master's degree in Computer Science at Virginia Tech
 - 🌱 I’m currently learning Web Development and Cloud Technologies
-- 👩‍💻 I'm looking for Internships/Co-op 2024 roles
+- 👩‍💻 I'm looking for Full-time SWE/Full-stack 2025 roles
 - 📩 Reach out to me: [nsaiaparanji@vt.edu](mailto:nsaiaparanji@vt.edu)
 - 🌐 [My Portfolio](https://aparanji49.github.io/)
-- 📚 Coursework completed: Intermediate Data Structures and Algorithms, Cloud Computing, Web Application Development, User Interface Software, Software Engineering, Information Visualization, Database Management Systems, Object Oriented Programming, Operating Systems, Formal Languages & Automata Theory, Principles of Programming Languages.
+- 📚 Coursework completed: Intermediate Data Structures and Algorithms, Cloud Computing, Web Application Development, User Interface Software, Mobile Application Development, Software Engineering, Information Visualization, Database Management Systems, Object Oriented Programming, Operating Systems, Formal Languages & Automata Theory, Principles of Programming Languages.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
