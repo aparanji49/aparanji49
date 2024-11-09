@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 ![Github banner](https://github.com/aparanji49/aparanji49/assets/22083265/ceb4d857-7a01-4d0b-955d-7488c829fa0e)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aparanji49&label=Profile%20views&color=0e75b6&style=flat" alt="aparanji49" /> </p>
+
 
 ## About Me
 
 - 🎓 I'm currently pursuing a master's degree in Computer Science at Virginia Tech
 - 🌱 I’m currently learning Web Development and Cloud Technologies
-- 👩‍💻 I'm looking for Full-time SWE/Full-stack 2025 roles
-- 📩 Reach out to me: [nsaiaparanji@vt.edu](mailto:nsaiaparanji@vt.edu)
+- 👩‍💻 I'm looking for Full-time SWE/Full-stack/Cloud 2025 roles
+- 📩 Reach out to me: [nsaiaparanji@vt.edu](mailto:nsaiaparanji@vt.edu) or [nsaiaparanji@gmail.com](mailto:nsaiaparanji@vt.edu)
 - 🌐 [My Portfolio](https://aparanji49.github.io/)
 - 📚 Coursework completed: Intermediate Data Structures and Algorithms, Cloud Computing, Web Application Development, User Interface Software, Mobile Application Development, Software Engineering, Information Visualization, Database Management Systems, Object Oriented Programming, Operating Systems, Formal Languages & Automata Theory, Principles of Programming Languages.
 
@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 </p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aparanji49&label=Profile%20views&color=0e75b6&style=flat" alt="aparanji49" /> </p>
 
