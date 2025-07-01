@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- 🎓 Graduated with a Masters in Computer Science at **Virginia Tech** in May 2025.
+- 🎓 Graduated with a **Master’s in Computer Science** from **Virginia Tech** in May 2025.
 - 🌱 Currently deep-diving into **Full Stack Web Development** and **Cloud Technologies**
-- 🚀 Actively seeking **Full-time SWE / Full-stack / Cloud roles for 2025**
-- 🛠️ Passionate about building scalable, user-focused web applications
+- 🚀 Actively seeking **Full-time SDE / SWE / Full-stack / Cloud roles for 2025**
+- 🛠️ Passionate about building scalable, user-focused applications
 - 📚 Coursework includes: Intermediate Data Structures and Algorithms, Cloud Computing, Web Application Development, User Interface Software, Mobile Application Development, Software Engineering, Information Visualization, Database Management Systems, Object Oriented Programming, Operating Systems, Formal Languages & Automata Theory, Principles of Programming Languages, Machine Learning with Big Data, Design Patterns, Object Oriented Design.
 ---
 ## 📫 Let's Connect
