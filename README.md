@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- 🎓 Pursuing MS in Computer Science at **Virginia Tech** (Graduating May 2025)
+- 🎓 Graduated with a Masters in Computer Science at **Virginia Tech** in May 2025.
 - 🌱 Currently deep-diving into **Full Stack Web Development** and **Cloud Technologies**
 - 🚀 Actively seeking **Full-time SWE / Full-stack / Cloud roles for 2025**
 - 🛠️ Passionate about building scalable, user-focused web applications
