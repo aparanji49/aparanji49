@@ -126,6 +126,7 @@ Vidya Jyothi Institute of Technology, India
 - 🌐 [Portfolio Website](https://aparanji49.github.io)  
 - 💼 [LinkedIn](https://linkedin.com/in/saiaparanjinemmani)    
 - 📩 [nsaiaparanji@gmail.com](mailto:nsaiaparanji@gmail.com)
+- 📝[Medium Articles](https://medium.com/@nsaiaparanji)
 
 ---
 
