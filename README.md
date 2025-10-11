@@ -33,31 +33,23 @@ I believe impactful systems are those that are intelligent, scalable, and intuit
 - Reduced professor evaluation effort by **75%** through automated insight generation  
 - Designed instructor dashboards with interactive data visualizations for performance metrics 
 
----
-
 ### 💻 RentBuddy – Rental Property Management Platform  
 **Spring Boot | React | Redis | Kafka | AWS RDS | JWT/OAuth2**  
 - Developed microservices for rental tracking and tenant management  
 - Implemented real-time notifications with Kafka and caching using Redis  
 - Deployed securely on AWS with scalable RDS and EC2 setup  
 
----
-
 ### 🎵 Musical Instrument Store – AI-Enhanced E-Commerce App  
 **MERN | GraphQL | Stripe | OpenAI API | Tailwind CSS**  
 - Designed a responsive product catalog and AI-driven recommendation engine  
 - Integrated secure Stripe payments and GraphQL queries for seamless checkout  
-- Improved load times and conversion through optimized caching and query batching  
-
----
-
+- Improved load times and conversion through optimized caching and query batching
+  
 ### 📊 LifeBoard – AI-Driven Productivity Dashboard  
 **Next.js | TypeScript | IndexedDB | PostgreSQL | Google Calendar API**  
 - Built an offline-first task manager with agentic AI task automation  
 - Connected Google Calendar for event scheduling and smart reminders  
 - Designed clean, minimal UI for tracking personal and professional goals  
-
----
 
 ### 🤖 AI-Powered Career Companion  
 **FastAPI | LangChain | DynamoDB | AWS Lambda | S3 | React**  
