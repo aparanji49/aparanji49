@@ -146,8 +146,28 @@ Vidya Jyothi Institute of Technology, India
 ## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,spring,graphql,aws,docker,mysql,postgres,mongodb,redis,kafka,tailwind,git,github,html,css" />
+  <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
+  <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/></a>
+  <a href="https://graphql.org/" title="GraphQL"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a>
+  <a href="https://redis.io/" title="Redis"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40"/></a>
+  <a href="https://kafka.apache.org/" title="Kafka"><img src="https://skillicons.dev/icons?i=kafka" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
 </p>
+
 
 
 
