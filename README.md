@@ -33,12 +33,6 @@ I believe impactful systems are those that are intelligent, scalable, and intuit
 - Reduced professor evaluation effort by **75%** through automated insight generation  
 - Designed instructor dashboards with interactive data visualizations for performance metrics 
 
-### 💻 RentBuddy – Rental Property Management Platform  
-**Spring Boot | React | Redis | Kafka | AWS RDS | JWT/OAuth2**  
-- Developed microservices for rental tracking and tenant management  
-- Implemented real-time notifications with Kafka and caching using Redis  
-- Deployed securely on AWS with scalable RDS and EC2 setup  
-
 ### 🎵 Musical Instrument Store – AI-Enhanced E-Commerce App  
 **MERN | GraphQL | Stripe | OpenAI API | Tailwind CSS**  
 - Designed a responsive product catalog and AI-driven recommendation engine  
