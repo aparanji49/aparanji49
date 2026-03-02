@@ -1,8 +1,8 @@
 # Hi, I'm Sai Aparanji Nemmani
 
-I am a Software Engineer with a Master’s in Computer Science from **Virginia Tech** and professional experience in full-stack development and cloud architecture.
+I am a Software Engineer with a Master’s in Computer Science from **Virginia Tech** and professional experience in full-stack and cloud-native development.
 
-I specialize in building end-to-end web applications, focusing on scalable backend systems (Java/Spring Boot), responsive frontends (React/Next.js), and cloud-native deployments (AWS). Recently, my work has expanded into integrating LLMs and AI agents into practical software solutions.
+I specialize in building end-to-end web applications, focusing on scalable backend systems (Java/Spring Boot/Node/JavaScript/TypeScript), responsive frontends (React/Next.js), and cloud-native deployments (AWS). Recently, my work has expanded into integrating LLMs and AI agents to create practical and intelligent software solutions.
 
 ---
 
@@ -34,24 +34,24 @@ I specialize in building end-to-end web applications, focusing on scalable backe
 ## Work Experience
 
 ### **Software Engineer | Virginia Tech**
-*Alexandria, VA | Jul 2025 – Present*
-* **System Architecture:** Designed the end-to-end architecture for "PeerInsights," an analytics platform that ingests unstructured peer reviews and outputs structured performance metrics.
-* **Frontend Engineering:** Built instructor dashboards using **Next.js**, **TypeScript**, and **React Query**, implementing caching strategies to optimize data fetching.
-* **Security & API:** Engineered a secure API layer with **MongoDB** and **JWT-based RBAC**, optimizing query patterns for concurrent review submissions.
-* **AI Integration:** Implemented a **Python (FastAPI)** pipeline to analyze text reviews, using LLMs to generate automated qualitative feedback summaries.
+*Jul 2025 – Present*
+* Designed the end-to-end architecture for "PeerInsights," an analytics platform that ingests unstructured peer reviews and outputs structured performance metrics.
+* Built instructor dashboards using **Next.js**, **TypeScript**, and **TanStack(React) Query**, implementing caching strategies and retries to optimize data fetching.
+* Engineered a secure API layer with **MongoDB** and **JWT-based RBAC**, optimizing query patterns for concurrent review submissions.
+* Implemented a **Python (FastAPI)** pipeline to analyze text reviews, using LLMs to generate automated qualitative feedback summaries.
 
 ### **Full Stack Web Developer Intern | Bunchful Enterprise**
-*Remote | Aug 2024 – Nov 2024*
-* **Modernization:** Led the migration of a legacy MVP to a **React**, **Node.js**, and **Firebase** architecture.
-* **Performance:** Optimized frontend performance by eliminating render-blocking resources via code-splitting and asset optimization.
-* **DevOps:** Standardized local development environments using **Docker Compose** and implemented a lightweight design system using CSS and Bootstrap.
+*Aug 2024 – Nov 2024*
+* Led the migration of a legacy MVP to a **React**, **Node.js**, and **Firebase** architecture.
+* Optimized frontend performance by eliminating render-blocking resources via code-splitting and asset optimization.
+* Standardized local development environments using **Docker Compose** and implemented a lightweight design system using CSS and Bootstrap.
 
 ### **Software Engineer | Virtusa**
-*Hyderabad, India | Oct 2020 – Jul 2023*
-* **Cloud Migration:** Architected a serverless migration for AdSales applications, replacing EC2 instances with event-driven **AWS Lambda** functions and **CloudFront**, significantly reducing operational overhead.
-* **Microservices:** Built and maintained versioned REST APIs for **Java Spring Boot** microservices, implementing idempotent write operations for data consistency.
-* **State Management:** Redesigned React frontend architecture using normalized **Redux** stores to eliminate stale-state bugs.
-* **Database Optimization:** Tuned SQL execution plans and introduced **Redis** caching to reduce latency on high-traffic endpoints.
+*Oct 2020 – Jul 2023*
+
+* Built and maintained versioned REST APIs for **Java Spring Boot** microservices, implementing idempotent write operations for data consistency.
+* Redesigned React frontend using normalized **Redux** stores to eliminate stale-state bugs.
+* Tuned SQL execution plans and introduced **Redis** caching to reduce latency on high-traffic endpoints.
 
 ---
 
