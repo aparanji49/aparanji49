@@ -2,7 +2,7 @@
 
 I am a Software Engineer with a Master’s in Computer Science from **Virginia Tech** and professional experience in full-stack and cloud-native development.
 
-I specialize in building end-to-end web applications, focusing on scalable backend systems (Java/Spring Boot/Node/JavaScript/TypeScript), responsive frontends (React/Next.js), and cloud-native deployments (AWS). Recently, my work has expanded into integrating LLMs and AI agents to create practical and intelligent software solutions.
+I build end-to-end web applications, focusing on scalable backend systems (Java/Spring Boot/Node/JavaScript/TypeScript), responsive frontends (React/Next.js), and cloud-native deployments (AWS). Recently, my work has expanded into integrating LLMs and AI agents to create practical and intelligent software solutions.
 
 ---
 
@@ -31,31 +31,7 @@ I specialize in building end-to-end web applications, focusing on scalable backe
 
 ---
 
-## Work Experience
-
-### **Software Engineer | Virginia Tech**
-*Jul 2025 – Present*
-* Designed the end-to-end architecture for "PeerInsights," an analytics platform that ingests unstructured peer reviews and outputs structured performance metrics.
-* Built instructor dashboards using **Next.js**, **TypeScript**, and **TanStack(React) Query**, implementing caching strategies and retries to optimize data fetching.
-* Engineered a secure API layer with **MongoDB** and **JWT-based RBAC**, optimizing query patterns for concurrent review submissions.
-* Implemented a **Python (FastAPI)** pipeline to analyze text reviews, using LLMs to generate automated qualitative feedback summaries.
-
-### **Full Stack Web Developer Intern | Bunchful Enterprise**
-*Aug 2024 – Nov 2024*
-* Led the migration of a legacy MVP to a **React**, **Node.js**, and **Firebase** architecture.
-* Optimized frontend performance by eliminating render-blocking resources via code-splitting and asset optimization.
-* Standardized local development environments using **Docker Compose** and implemented a lightweight design system using CSS and Bootstrap.
-
-### **Software Engineer | Virtusa**
-*Oct 2020 – Jul 2023*
-
-* Built and maintained versioned REST APIs for **Java Spring Boot** microservices, implementing idempotent write operations for data consistency.
-* Redesigned React frontend using normalized **Redux** stores to eliminate stale-state bugs.
-* Tuned SQL execution plans and introduced **Redis** caching to reduce latency on high-traffic endpoints.
-
----
-
-## Personal Projects
+## Projects
 
 ### **LifeBoard – Personal Productivity Dashboard**
 *Next.js, TypeScript, PostgreSQL, IndexedDB, Google Calendar API*
