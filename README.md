@@ -31,22 +31,6 @@ I build end-to-end web applications, focusing on scalable backend systems (Java/
 
 ---
 
-## Projects
-
-### **LifeBoard – Personal Productivity Dashboard**
-*Next.js, TypeScript, PostgreSQL, IndexedDB, Google Calendar API*
-An offline-first task manager that integrates agentic AI for scheduling.
-* **Sync Logic:** Implemented optimistic UI updates with IndexedDB and background synchronization to PostgreSQL.
-* **Automation:** Connected Google Calendar API with conflict-resolution logic to automate personal scheduling tasks.
-
----
-
-## Awards & Recognition
-
-* **2nd Runner-Up – TEKHACK AGI (IBM Watson Hackathon):** Built a chatbot prototype using IBM Watson during a 24-hour hackathon.
-
----
-
 ## Education
 
 * **Master of Engineering in Computer Science & Applications**
@@ -57,6 +41,11 @@ An offline-first task manager that integrates agentic AI for scheduling.
 
 ---
 
+## Awards & Recognition
+
+* **2nd Runner-Up – TEKHACK AGI (IBM Watson Hackathon):** Built a chatbot prototype using IBM Watson during a 24-hour hackathon.
+
+---
 <div align="center">
   <a href="https://linkedin.com/in/saiaparanjinemmani">LinkedIn</a> •
   <a href="https://aparanji49.github.io">Portfolio</a> •
