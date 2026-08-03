@@ -49,5 +49,5 @@ I build end-to-end web applications, focusing on scalable backend systems (Java/
 <div align="center">
   <a href="https://linkedin.com/in/saiaparanjinemmani">LinkedIn</a> •
   <a href="https://aparanji49.github.io">Portfolio</a> •
-  <a href="mailto:nsaiaparanji@vt.edu">Email</a>
+  <a href="mailto:nsaiaparanji@gmail.com">Email</a>
 </div>
